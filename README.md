@@ -36,3 +36,8 @@ C- Chanllanges:
     1- The cloudflare encryption over the email of the compan, took a bit of resarch to understand the strange formate and how to decode it
     
     2- The Semantic Search, with my very limited knowledge of the SS i was a bit hard to search and understand to provide the data for the search vector and how to call it and how to use open AI to search for the result, after finishing up the search logic i could not test it because of the rate limit on open ai token
+
+
+HOW TO USE:
+
+    run the main script file
